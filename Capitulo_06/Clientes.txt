@@ -1,0 +1,52 @@
+1|Olga Cristina Bonfiglioli|240.00|1970-01-01 00:00:00|F
+2|Maria Cristina Bonfiglioli Martins de Souza Santos|240.00|1969-01-01 00:00:00|F
+3|Salvador Eneas Feredico|480.00|1968-01-01 00:00:00|M
+4|Dolores Gerreiro Martins|720.00|1967-01-01 00:00:00|F
+5|Fabiana Bataglin|960.00|1966-01-01 00:00:00|F
+6|Aparecida Ribeiro|1200.00|1965-01-01 00:00:00|F
+7|Reginaldo Ribeiro|1440.00|1964-01-01 00:00:00|M
+8|Suellen M Nunes|1680.00|1963-01-01 00:00:00|F
+9|Carlos Alberto|1920.00|1962-01-01 00:00:00|M
+10|Roberto Arruda|2160.00|1961-01-01 00:00:00|M
+11|Sandra Medeiros|2400.00|1960-01-01 00:00:00|F
+12|Alice Santos|1100.00|1959-01-01 00:00:00|F
+13|Valter Sanches|1200.00|1958-01-01 00:00:00|F
+14|Pascoal Babiera|1300.00|1957-01-01 00:00:00|M
+15|Lucia Bacalla|1400.00|1956-01-01 00:00:00|F
+16|Maria Belido|1500.00|1955-01-01 00:00:00|F
+17|Hamilton Belico|1600.00|1954-01-01 00:00:00|M
+18|Alberto Belli|1700.00|1953-01-01 00:00:00|M
+19|Marcia Bueno|1800.00|1952-01-01 00:00:00|F
+20|Maria Catta|1900.00|1951-01-01 00:00:00|F
+21|Carlos Cattaneo|2000.00|1950-01-01 00:00:00|M
+22|Andre Caula|2100.00|1949-01-01 00:00:00|M
+23|Fabia D vello|2200.00|1948-01-01 00:00:00|F
+24|Afonso Ferraro|2300.00|1947-01-01 00:00:00|M
+25|Akemi Fukamizu|2400.00|1946-01-01 00:00:00|M
+26|Bernadino Gomes|2500.00|1945-01-01 00:00:00|M
+27|Regiani Hoki|2600.00|1944-01-01 00:00:00|F
+28|Valter Koszura|2700.00|1943-01-01 00:00:00|F
+29|Alexandre Kozeki|2800.00|1942-01-01 00:00:00|M
+30|Vittorio Lannocca|2900.00|1941-01-01 00:00:00|M
+31|Domingos Lanini|3000.00|1940-01-01 00:00:00|M
+32|Paulo Mello|3100.00|1939-01-01 00:00:00|M
+33|Zilda Mellone|3200.00|1938-01-01 00:00:00|F
+34|Marlene Moura|3300.00|1937-01-01 00:00:00|F
+35|Francisca Oliveira|3400.00|1936-01-01 00:00:00|F
+36|Marlene Pereira|3500.00|1935-01-01 00:00:00|F
+37|Milton Pereira|3600.00|1934-01-01 00:00:00|M
+38|Ligia Ramos|3700.00|1933-01-01 00:00:00|F
+39|Mariangela Ramos|3800.00|1932-01-01 00:00:00|F
+40|Dora Romariz|3900.00|1931-01-01 00:00:00|F
+41|Paulino Romelli|40000.00|1930-01-01 00:00:00|M
+42|Fernando Sampaio|41000.00|1929-01-01 00:00:00|M
+43|Jos‚ Sampaio|42000.00|1928-01-01 00:00:00|M
+44|Vicenzo Senatori|4300.00|1927-01-01 00:00:00|M
+45|Geraldo Senedeze|4400.00|1926-01-01 00:00:00|M
+46|Mauro Soares|4500.00|1925-01-01 00:00:00|M
+47|Paulo Souza|4600.00|1924-01-01 00:00:00|M
+48|Emidio Trifoni|4700.00|1923-01-01 00:00:00|M
+49|Heitor Vernile|4800.00|1922-01-01 00:00:00|M
+50|Carlos Saura|4900.00|1921-01-01 00:00:00|M
+51|Angelino Saullo|5000.00|1920-01-01 00:00:00|M
+52|Aldo Savazzoni|5100.00|1919-01-01 00:00:00|M

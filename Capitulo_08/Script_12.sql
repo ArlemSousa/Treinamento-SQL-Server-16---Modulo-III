@@ -1,0 +1,23 @@
+Use Vendas
+go
+
+INSERT Pedido VALUES(2,getdate(),900.00)
+INSERT Pedido VALUES(4,getdate(),80.00)
+INSERT Pedido VALUES(2,getdate(),800.00)
+INSERT Pedido VALUES(4,getdate(),600.00)
+INSERT Pedido VALUES(5,getdate(),200.00)
+INSERT Pedido VALUES(4,getdate(),800.00)
+INSERT Pedido VALUES(5,getdate(),70.00)
+INSERT Pedido VALUES(2,getdate(),20.00)
+INSERT Pedido VALUES(2,getdate(),900.00)
+INSERT Pedido VALUES(1,getdate(),10.00)
+INSERT Pedido VALUES(2,getdate(),700.00)
+INSERT Pedido VALUES(4,getdate(),56.00)
+INSERT Pedido VALUES(2,getdate(),89.00)
+INSERT Pedido VALUES(4,getdate(),78.00)
+INSERT Pedido VALUES(5,getdate(),59.00)
+INSERT Pedido VALUES(4,getdate(),6789.00)
+INSERT Pedido VALUES(5,getdate(),12.00)
+INSERT Pedido VALUES(2,getdate(),35.00)
+INSERT Pedido VALUES(2,getdate(),45.00)
+INSERT Pedido VALUES(1,getdate(),78.00)

@@ -1,0 +1,4 @@
+Use Master
+go
+RESTORE DATABASE Escritorio
+WITH RECOVERY

@@ -1,0 +1,7 @@
+Use Siscom
+go
+DBCC SHOWCONTIG(Dependente)
+DBCC SHOWCONTIG(Funcionario)
+DBCC SHOWCONTIG(ItensPedido)
+DBCC SHOWCONTIG(Pedido)
+DBCC SHOWCONTIG(Produto)
